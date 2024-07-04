@@ -5,18 +5,14 @@
   "main": "index.js",
   "devDependencies": {
     "@babel/core": "*",
-    "@babel/preset-env": "*",
-    "@types/node": "^20.14.9",
     "babel-jest": "*",
+    "@babel/preset-env": "*",
     "jest": "^27.0.6"
   },
   "scripts": {
     "test": "jest"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "ts-node": "^10.9.2",
-    "typescript": "^5.5.3"
-  }
+  "license": "ISC"
+
 }
